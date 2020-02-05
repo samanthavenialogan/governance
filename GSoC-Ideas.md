@@ -58,8 +58,8 @@ The aims of this project are to:
 
 _Difficulty:_ Medium to Hard based on the level of implementation (machine learning).
 
-_Requirements:_ Python programming. API Development. Some understanding of the social scientific process and qualitative data analysis
+_Requirements:_ Python programming. API Development. Some understanding of the social scientific process and qualitative data analysis. Willingness to learn CHAOSS GrimoireLab Structure.
 
-_Recommended:_ Other API languages. Interest in science of community management and anthropological studies of online worlds. Willingness to learn CHAOSS Property Structures. Interest in machine learning. 
+_Recommended:_ Other API languages. Interest in science of community management and anthropological studies of online worlds.  Interest in machine learning. 
 
  _Mentors:_  Dylan Marcy (SociallyConstructed.Online), @samanthavenialogan (SociallyConstructed.Online), @valeriocos (GrimoireLabs), @GeorgLink (Advising only)
